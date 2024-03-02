@@ -8,6 +8,7 @@ This repository contains Python code for extracting relevant information from re
 
 ## Features
 
+- **Parser Functionality:** Parses the extracted text to identify and extract relevant sections such as personal information, education, technical skills, experience details, and achievements.
 - **Skill Extraction:** Extracts skills from the resume text using both regular expressions and a dataset.
 - **Occupation Extraction:** Extracts occupations from the resume text using a dataset.
 - **Support for Various File Formats:** Supports extraction from PDF, DOCX, DOC, and image files.
