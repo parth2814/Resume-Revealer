@@ -51,7 +51,7 @@ This repository contains Python code for extracting relevant information from re
      jupyter lab
      ```
 
-3. **Open the Notebook:** Once Jupyter Notebook or JupyterLab is launched, navigate to the notebook file (`your_notebook.ipynb`) and open it.
+3. **Open the Notebook:** Once Jupyter Notebook or JupyterLab is launched, navigate to the notebook file (`hackathon_project.ipynb`) and open it.
 
 4. **Execute the Cells:** Execute the cells in the notebook to run the code. You can do this by clicking on the "Run" button in the toolbar or by using keyboard shortcuts (e.g., Shift + Enter).
 
