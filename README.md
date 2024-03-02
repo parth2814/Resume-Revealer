@@ -1,4 +1,4 @@
-# hackathon-project
+# Resume Revealer
 
 # Resume Data Extraction
 
