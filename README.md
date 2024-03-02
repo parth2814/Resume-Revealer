@@ -26,7 +26,7 @@ This repository contains Python code for extracting relevant information from re
 ## Usage
 
 1. **Clone the Repository:**
-    https://github.com/parth2814/hackathon-project.git
+    https://github.com/parth2814/Resume-Revealer.git
 
     cd resume-data-extraction
    
