@@ -26,10 +26,11 @@ This repository contains Python code for extracting relevant information from re
 ## Usage
 
 1. **Clone the Repository:**
-    git clone https://github.com/parth2814/resume-data-extraction.git
+    git clone https://github.com/parth2814/resume-data-extraction
+
     cd resume-data-extraction
    
-2. **Install Dependencies:**
+3. **Install Dependencies:**
    
    To install the required dependencies, run the following command:
   ```bash
